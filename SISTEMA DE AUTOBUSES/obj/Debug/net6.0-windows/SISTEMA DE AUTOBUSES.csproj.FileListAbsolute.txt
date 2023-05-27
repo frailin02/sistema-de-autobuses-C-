@@ -1,0 +1,28 @@
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.exe
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.deps.json
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.runtimeconfig.json
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.pdb
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA_DE_AUTOBUSES.Form1.resources
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.csproj.CopyComplete
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\refint\SISTEMA DE AUTOBUSES.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.pdb
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA DE AUTOBUSES.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\ref\SISTEMA DE AUTOBUSES.dll
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA_DE_AUTOBUSES.choferesFormD.resources
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA_DE_AUTOBUSES.AutobusesForm.resources
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA_DE_AUTOBUSES.FormViaje.resources
+C:\Users\HP\OneDrive\Programacion\C#\SISTEMA DE AUTOBUSES\obj\Debug\net6.0-windows\SISTEMA_DE_AUTOBUSES.FormRuta.resources
